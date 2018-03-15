@@ -11,8 +11,8 @@ tags:
 - Stack Network
 - Google APIs
 - Fonts
-created: "2018-03-11"
-modified: "2018-03-11"
+created: "2018-03-15"
+modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-fonts/master/_listings/google-fonts/apis.yaml
 specificationVersion: "0.14"
 apis:
